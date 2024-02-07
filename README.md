@@ -13,7 +13,8 @@
 9. CUDA/cuDNN
 10. Pytorch
 11. Tensorflow
-12. ROS
-13. ROS2
-14. Open3D
-15. WebRTC
+12. OpenCV
+13. ROS
+14. ROS2
+15. Open3D
+16. WebRTC
